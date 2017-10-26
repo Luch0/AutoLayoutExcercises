@@ -97,11 +97,9 @@
 		E2E514021FA25F7C0060C5F1 /* AutoLayoutExcercises */ = {
 			isa = PBXGroup;
 			children = (
-				E2E514031FA25F7C0060C5F1 /* AppDelegate.swift */,
+				E2E514311FA25F900060C5F1 /* Supporting Files */,
 				E2E514051FA25F7C0060C5F1 /* ViewController.swift */,
 				E2E514071FA25F7C0060C5F1 /* Main.storyboard */,
-				E2E5140A1FA25F7C0060C5F1 /* Assets.xcassets */,
-				E2E5140C1FA25F7C0060C5F1 /* LaunchScreen.storyboard */,
 				E2E5140F1FA25F7C0060C5F1 /* Info.plist */,
 			);
 			path = AutoLayoutExcercises;
@@ -123,6 +121,16 @@
 				E2E514251FA25F7C0060C5F1 /* Info.plist */,
 			);
 			path = AutoLayoutExcercisesUITests;
+			sourceTree = "<group>";
+		};
+		E2E514311FA25F900060C5F1 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				E2E514031FA25F7C0060C5F1 /* AppDelegate.swift */,
+				E2E5140A1FA25F7C0060C5F1 /* Assets.xcassets */,
+				E2E5140C1FA25F7C0060C5F1 /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
